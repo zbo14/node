@@ -2079,7 +2079,7 @@ for performance reasons.
 
 ### `stream.Readable.fromWeb(readableStream[, options])`
 <!-- YAML
-added: REPLACEME
+added: v17.0.0
 -->
 
 > Stability: 1 - Experimental
@@ -2106,7 +2106,7 @@ Returns whether the stream has been read from or cancelled.
 
 ### `stream.Readable.toWeb(streamReadable)`
 <!-- YAML
-added: REPLACEME
+added: v17.0.0
 -->
 
 > Stability: 1 - Experimental
@@ -2116,7 +2116,7 @@ added: REPLACEME
 
 ### `stream.Writable.fromWeb(writableStream[, options])`
 <!-- YAML
-added: REPLACEME
+added: v17.0.0
 -->
 
 > Stability: 1 - Experimental
@@ -2131,7 +2131,7 @@ added: REPLACEME
 
 ### `stream.Writable.toWeb(streamWritable)`
 <!-- YAML
-added: REPLACEME
+added: v17.0.0
 -->
 
 > Stability: 1 - Experimental
@@ -2169,7 +2169,7 @@ A utility method for creating duplex streams.
 
 ### `stream.Duplex.fromWeb(pair[, options])`
 <!-- YAML
-added: REPLACEME
+added: v17.0.0
 -->
 
 > Stability: 1 - Experimental
@@ -2188,7 +2188,7 @@ added: REPLACEME
 
 ### `stream.Duplex.toWeb(streamDuplex)`
 <!-- YAML
-added: REPLACEME
+added: v17.0.0
 -->
 
 > Stability: 1 - Experimental

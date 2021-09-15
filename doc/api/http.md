@@ -1354,7 +1354,7 @@ explicitly.
 
 ### `server.maxRequestsPerSocket`
 <!-- YAML
-added: REPLACEME
+added: v17.0.0
 -->
 
 * {number} Requests per socket. **Default:** null (no limit)

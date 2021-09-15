@@ -600,7 +600,7 @@ This option is a no-op. It is kept for compatibility.
 
 ### `--no-addons`
 <!-- YAML
-added: REPLACEME
+added: v17.0.0
 -->
 
 Disable the `node-addons` exports condition as well as disable loading
@@ -616,7 +616,7 @@ Silence deprecation warnings.
 
 ### `--no-extra-info-on-fatal-exception`
 <!-- YAML
-added: REPLACEME
+added: v17.0.0
 -->
 
 Hide extra information on fatal exception that causes exit.
@@ -631,7 +631,7 @@ dynamically when `async_hooks` is enabled.
 
 ### `--no-global-search-paths`
 <!-- YAML
-added: REPLACEME
+added: v17.0.0
 -->
 
 Do not search modules from global paths like `$HOME/.node_modules` and

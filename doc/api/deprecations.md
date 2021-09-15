@@ -2789,7 +2789,7 @@ deprecated and should no longer be used.
 ### DEP0153: `dns.lookup` and `dnsPromises.lookup` options type coercion
 <!-- YAML
 changes:
-  - version: REPLACEME
+  - version: v17.0.0
     pr-url: https://github.com/nodejs/node/pull/39793
     description: Runtime deprecation.
   - version: v16.8.0
@@ -2807,7 +2807,7 @@ option, or a non-nullish non-boolean value for `verbatim` option in
 ### DEP0154: RSA-PSS generate key pair options
 <!-- YAML
 changes:
-  - version: REPLACEME
+  - version: v17.0.0
     pr-url: https://github.com/nodejs/node/pull/39927
     description: Documentation-only deprecation.
 -->
@@ -2820,10 +2820,10 @@ and `'mgf1HashAlgorithm'`.
 ### DEP0155: Trailing slashes in pattern specifier resolutions
 <!-- YAML
 changes:
-  - version: REPLACEME
+  - version: v17.0.0
     pr-url: https://github.com/nodejs/node/pull/40117
     description: Runtime deprecation.
-  - version: REPLACEME
+  - version: v17.0.0
     pr-url: https://github.com/nodejs/node/pull/40039
     description: Documentation-only deprecation
                  with `--pending-deprecation` support.

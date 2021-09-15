@@ -382,7 +382,7 @@ added: v0.0.1
 
 ## `DOMException`
 <!-- YAML
-added: REPLACEME
+added: v17.0.0
 -->
 
 <!-- type=global -->

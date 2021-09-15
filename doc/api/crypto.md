@@ -3375,7 +3375,7 @@ generateKey('hmac', { length: 64 }, (err, key) => {
 <!-- YAML
 added: v10.12.0
 changes:
-  - version: REPLACEME
+  - version: v17.0.0
     pr-url: https://github.com/nodejs/node/pull/39927
     description: Add ability to define `RSASSA-PSS-params` sequence parameters
                  for RSA-PSS keys pairs.
@@ -3486,7 +3486,7 @@ a `Promise` for an `Object` with `publicKey` and `privateKey` properties.
 <!-- YAML
 added: v10.12.0
 changes:
-  - version: REPLACEME
+  - version: v17.0.0
     pr-url: https://github.com/nodejs/node/pull/39927
     description: Add ability to define `RSASSA-PSS-params` sequence parameters
                  for RSA-PSS keys pairs.

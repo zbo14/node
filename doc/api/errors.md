@@ -1030,7 +1030,7 @@ The [debugger][] timed out waiting for the required host/port to be free.
 <a id="ERR_DLOPEN_DISABLED"></a>
 ### `ERR_DLOPEN_DISABLED`
 <!-- YAML
-added: REPLACEME
+added: v17.0.0
 -->
 
 Loading native addons has been disabled using [`--no-addons`][].
